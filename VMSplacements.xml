@@ -551,7 +551,7 @@
 					</ns8:vms>
 				</ns8:vms>
 			</ns8:vmsController>
-			<ns8:vmsController id="RCS-13-02-0130500-0-S13-13,5-0" version="1">
+			<ns8:vmsController id="RCS-13-02-0130500-0-S13-13,5" version="1">
 				<ns8:numberOfVms>2</ns8:numberOfVms>
 				<ns8:externalIdentifier>S13-13,5-0</ns8:externalIdentifier>
 				<ns8:vms vmsIndex="1">
