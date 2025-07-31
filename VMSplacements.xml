@@ -13933,44 +13933,6 @@
 					</ns8:vms>
 				</ns8:vms>
 			</ns8:vmsController>
-			<ns8:vmsController id="RCS-600506-00-0240524-0-Signalanlaeg" version="1">
-				<ns8:numberOfVms>1</ns8:numberOfVms>
-				<ns8:externalIdentifier>Signalanlaeg</ns8:externalIdentifier>
-				<ns8:vms vmsIndex="1">
-					<ns8:vms>
-						<ns8:description>
-							<values>
-								<value>SWS-600506-00-0240524-0-Signalanlaeg</value>
-							</values>
-						</ns8:description>
-						<ns8:owner>
-							<values>
-								<value>Vejdirektoratet/Danish Road Directorate</value>
-							</values>
-						</ns8:owner>
-						<ns8:vmsTypeCode>Warning subpanel</ns8:vmsTypeCode>
-						<ns8:vmsConfiguration>
-							<ns8:numberOfDisplayAreas>1</ns8:numberOfDisplayAreas>
-						</ns8:vmsConfiguration>
-						<ns8:vmsLocation xsi:type="ns10:PointLocation">
-							<ns10:supplementaryPositionalDescription>
-								<ns10:carriageway>
-									<ns10:carriageway>mainCarriageway</ns10:carriageway>
-									<ns10:lane>
-										<ns10:laneUsage>allLanesCompleteCarriageway</ns10:laneUsage>
-									</ns10:lane>
-								</ns10:carriageway>
-							</ns10:supplementaryPositionalDescription>
-							<ns10:pointByCoordinates>
-								<ns10:pointCoordinates>
-									<ns10:latitude>55.5247</ns10:latitude>
-									<ns10:longitude>9.714789</ns10:longitude>
-								</ns10:pointCoordinates>
-							</ns10:pointByCoordinates>
-						</ns8:vmsLocation>
-					</ns8:vms>
-				</ns8:vms>
-			</ns8:vmsController>
 			<ns8:vmsController id="RCS-03-02-0500560-0-PN6" version="1">
 				<ns8:numberOfVms>1</ns8:numberOfVms>
 				<ns8:externalIdentifier>PN6</ns8:externalIdentifier>
