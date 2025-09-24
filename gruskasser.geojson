@@ -1,0 +1,416 @@
+{
+  "type": "FeatureCollection",
+  "name": "gruskasser",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.420210795298543, 55.66858911341583]
+      },
+      "properties": {
+        "skreven stedfæstelse": "3 3 049/0378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.420416800215053, 55.66735588496676]
+      },
+      "properties": {
+        "skreven stedfæstelse": "3 3 049/0667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.47459218363777, 55.61548251569258]
+      },
+      "properties": {
+        "skreven stedfæstelse": "3 3 057/0307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.569721344602184, 55.62791834274639]
+      },
+      "properties": {
+        "skreven stedfæstelse": "9670003 3 064/0150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.572016661669908, 55.628737059481224]
+      },
+      "properties": {
+        "skreven stedfæstelse": "9670003 4 064/0276"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.477250913883976, 55.61687953710493]
+      },
+      "properties": {
+        "skreven stedfæstelse": "3 4 057/0451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.343289019895959, 55.620162162006096]
+      },
+      "properties": {
+        "skreven stedfæstelse": "10 3 017/0056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.275141540214284, 55.592742486660306]
+      },
+      "properties": {
+        "skreven stedfæstelse": "10 3 022/0323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.16488742292338, 55.48438994878122]
+      },
+      "properties": {
+        "skreven stedfæstelse": "10 4 036/0510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.3730341595301, 55.642872759066876]
+      },
+      "properties": {
+        "skreven stedfæstelse": "11 3 014/0070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.281070500734641, 55.66512321205981]
+      },
+      "properties": {
+        "skreven stedfæstelse": "11 3 021/0125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.090471833097768, 55.62608196353931]
+      },
+      "properties": {
+        "skreven stedfæstelse": "11 3 034/0736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.042019020285789, 55.628044911452925]
+      },
+      "properties": {
+        "skreven stedfæstelse": "11 3 036/1759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.280081887739948, 55.66345155442998]
+      },
+      "properties": {
+        "skreven stedfæstelse": "11 4 021/0168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.090880303810144, 55.62392021860967]
+      },
+      "properties": {
+        "skreven stedfæstelse": "11 4 034/0575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.521374404895155, 55.833224777371775]
+      },
+      "properties": {
+        "skreven stedfæstelse": "14 3 027/0834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.52370483518107, 55.77547347163942]
+      },
+      "properties": {
+        "skreven stedfæstelse": "14 3 034/0449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.526237118281394, 55.775544084915055]
+      },
+      "properties": {
+        "skreven stedfæstelse": "14 4 034/0094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.378565736183795, 55.35305030889173]
+      },
+      "properties": {
+        "skreven stedfæstelse": "40 3 161/0136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.214548520933375, 55.38773223545393]
+      },
+      "properties": {
+        "skreven stedfæstelse": "40 3 172/0356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.716984031631453, 55.53414464195662]
+      },
+      "properties": {
+        "skreven stedfæstelse": "40 3 208/0954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.347040604981558, 55.36131352259652]
+      },
+      "properties": {
+        "skreven stedfæstelse": "40 3A 163/0370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.374868150543959, 55.35283503160505]
+      },
+      "properties": {
+        "skreven stedfæstelse": "40 4 161/0362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.20816317086376, 55.387898114547816]
+      },
+      "properties": {
+        "skreven stedfæstelse": "40 4 172/0712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.71740030103289, 55.53157013330068]
+      },
+      "properties": {
+        "skreven stedfæstelse": "40 4 208/0690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.3431763806705, 55.361123824990685]
+      },
+      "properties": {
+        "skreven stedfæstelse": "40 4A 163/0585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.440356720595743, 55.465560950483045]
+      },
+      "properties": {
+        "skreven stedfæstelse": "50 3 076/0607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.465011446687768, 55.528567477174164]
+      },
+      "properties": {
+        "skreven stedfæstelse": "50 3 085/0255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.43681879455694, 55.4665480902577]
+      },
+      "properties": {
+        "skreven stedfæstelse": "50 4 076/0816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.468136786933016, 55.52988624668534]
+      },
+      "properties": {
+        "skreven stedfæstelse": "50 4 085/0476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.56452912077377, 55.68220636650761]
+      },
+      "properties": {
+        "skreven stedfæstelse": "60 3 106/0850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.578824052844018, 55.72426326755567]
+      },
+      "properties": {
+        "skreven stedfæstelse": "60 3 111/0629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.074425807846387, 56.18983140155708]
+      },
+      "properties": {
+        "skreven stedfæstelse": "60 3 177/0174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.563625809458163, 55.6840759247731]
+      },
+      "properties": {
+        "skreven stedfæstelse": "60 4 106/0969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.574397737769495, 55.724347956357235]
+      },
+      "properties": {
+        "skreven stedfæstelse": "60 4 111/0583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.069851887913597, 56.19362793589818]
+      },
+      "properties": {
+        "skreven stedfæstelse": "60 4 177/0403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.154998576382003, 56.13537696193579]
+      },
+      "properties": {
+        "skreven stedfæstelse": "61 3 174/0330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.97261015699493, 57.043490667954835]
+      },
+      "properties": {
+        "skreven stedfæstelse": "70 3 291/0382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.960871827298481, 57.01943469531752]
+      },
+      "properties": {
+        "skreven stedfæstelse": "70 3A 288/0526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.958089963998928, 57.020673053007584]
+      },
+      "properties": {
+        "skreven stedfæstelse": "70 4 288/0486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.971329288857444, 57.045443640300554]
+      },
+      "properties": {
+        "skreven stedfæstelse": "70 4 291/0594"
+      }
+    }
+  ]
+}
