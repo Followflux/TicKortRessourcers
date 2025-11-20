@@ -336,7 +336,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [55.68425301947942, 9.564213233313671]
+        "coordinates": [9.564213233313671, 55.68425301947942]
       },
       "properties": {
         "skreven stedfæstelse": "60 4 106/0969"
